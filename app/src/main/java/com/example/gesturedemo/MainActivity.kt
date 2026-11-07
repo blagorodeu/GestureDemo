@@ -64,6 +64,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
 @Composable
 fun MainScreen(modifier: Modifier = Modifier) {
     MultiTouchDemo(modifier)
